@@ -36,6 +36,10 @@ namespace radiustheme\Koncrete;
     </div>
     <?php wp_footer() ?>
 
+
+    <a href="https://www.jaguarsteel.com/get-instant-quote/" class="item-menu-button query_popup pum-trigger" style="cursor: pointer;">
+          Get A Quote        </a>
+          
     <!-- GetButton.io widget -->
 <script type="text/javascript">
 (function () {
